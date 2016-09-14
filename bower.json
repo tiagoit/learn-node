@@ -1,0 +1,21 @@
+{
+  "name": "learning-node",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Tiago Ferreira <tiagobc@ciandt.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
